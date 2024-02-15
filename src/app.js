@@ -20,7 +20,7 @@ function seleccionAlAzar(quien) {
 }
 window.onload = function() {
   //write your code here
-  console.log("hola");
+
   let miCaja = document.getElementById("miCaja");
   miCaja.textContent =
     seleccionAlAzar(who) +
