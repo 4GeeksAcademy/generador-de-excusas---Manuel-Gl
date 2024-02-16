@@ -4,6 +4,7 @@ import "./style.css";
 
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
+
 let who = ["El perro", "Mi abu", "La tortuga", "Un pokemon"];
 let action = ["se comio", "se orino", "se aplasto", "se rompio"];
 let what = ["mis deberes", "mis llaves", "la tarjeta"];
