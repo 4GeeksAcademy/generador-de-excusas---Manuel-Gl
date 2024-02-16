@@ -15,8 +15,8 @@ let when = [
   "...no te quiero mentir no me gustas"
 ];
 
-function seleccionAlAzar(quien) {
-  return quien[Math.floor(Math.random() * quien.length)];
+function seleccionAlAzar(array) {
+  return array[Math.floor(Math.random() * array.length)];
 }
 window.onload = function() {
   //write your code here
