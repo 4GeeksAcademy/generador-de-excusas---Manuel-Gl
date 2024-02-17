@@ -13,7 +13,7 @@ let when = [
   "en el momento",
   "que estaba terminando",
   "cuando me estaba duchando",
-  "...no te quiero mentir no me gustas"
+  "...no te quiero mentir no me gustas",
 ];
 
 function seleccionAlAzar(array) {
@@ -32,7 +32,6 @@ window.onload = function() {
     " " +
     seleccionAlAzar(when);
 
-  console.log(miCaja);
   //let elemento = document.getElementById("exusa");
 
   //function onLoad(){
